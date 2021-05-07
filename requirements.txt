@@ -1,4 +1,4 @@
 python-dotenv
 asyncpg
-aiogram
+aiogram==2.9
 asyncio
